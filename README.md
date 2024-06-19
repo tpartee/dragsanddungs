@@ -6,6 +6,10 @@ Dragons &amp; Dungeons Tools (Please don't sue me WotC!)
 
 Inside the folder for the character sheet project you will find the files (including pre-compiled debug executable) necessary to build and/or run the project. There is also a PDF file containing the instructions for the project in the folder.
 
+### Architecture
+
+I chose to use WPF/XAML for this project as it's the fastest UI prototyping tool framework I know and allowed me to get a lot of solid UI work done quickly and easily. I chose C# as the language as C# is one of my core langugaes and typically the smartest choice for a project of this nature with WPF/XAML. There are many much heavier frameworks and languages I could have used, but the goal was to get this banged out fast and I used the tools I know best for that!
+
 ### Building
 
 This project was built on Visual Studio 2022 Community Edition with a build target of .Net 8.0 (not Core or Framework, please note). You will need VS2022 of any edition installed in order to load and compile this project. If you don't have access to VS2022, a pre-compiled executable for Windows can be found in the `bin` folder.
