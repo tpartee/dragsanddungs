@@ -2,6 +2,12 @@
 
 Dragons &amp; Dungeons Tools (Please don't sue me WotC!)
 
+## Abstract / Update
+
+This was a project given as a take-home code assignment for a job interview process. I want to point out that the instructions (in a PDF file inside the character sheet folder) expressly said NOT to take more than 3-4 hours. So I followed those instructions. I wrote 4 hours of code, then did around 90 minutes of testing, debugging and this documentation.
+
+Today I received a rejection letter letting me know they accepted a candidate who clearly spent 20+ hours on the assignment given the features the hiring manager extolled. Which was well, well beyond the 4 hours given. So they hired someone who clearly had no self-respect, didn't respect their own time let alone the company's, and if it had been a Project Manager who had said "you have 4 hours to work on it" and I spent 20, I'd be in some deep shit for going over the given time by a factor of 5. Clearly the company was fishing for people to abuse, so I hope the person who was hired enjoys their abuse, and I hope they grow a pair and don't stick with the studio for long.
+
 ## Character Sheet
 
 Inside the folder for the character sheet project you will find the files (including pre-compiled debug executable) necessary to build and/or run the project. There is also a PDF file containing the instructions for the project in the folder.
